@@ -29,9 +29,13 @@ body {
     margin-top: 20px;
 }
 
+.sec-2 {
+    color: rgb(55, 53, 53);
+}
+
 #paragraph {
     margin-top: 20px;
-    color: rgb(87, 83, 83);
+    color: rgb(130, 128, 128);
 }
 
 .box-1 {
@@ -44,13 +48,19 @@ body {
     background: hsl(225, 100%, 98%);
 }
 
+
 .plan {
     margin: auto;
-    color: rgb(74, 70, 70);
+    color: rgb(130, 128, 128);
+    margin-left: 15px;
 }
 
 .change {
     margin-top: 12px;
+}
+
+.ap {
+    margin-left: -40px;
 }
 
 .box-2 {
@@ -61,11 +71,12 @@ body {
     margin: auto;
     color: #fff;
     margin-top: 30px;
+    box-shadow: rgb(74, 70, 70) 0 10px 30px;
 }
 
 .p {
     margin-top: 40px;
-    color: rgb(68, 64, 64);
+    color: rgb(130, 128, 128);
     font-weight: bold;
 }
 
